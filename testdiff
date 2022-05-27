@@ -1,0 +1,13 @@
+diff --git a/demo/demo/src/main/java/com/example/demo/controller/TestController.java b/demo/demo/src/main/java/com/example/demo/controller/TestController.java
+index b94732b..7c7b60b 100644
+--- a/demo/demo/src/main/java/com/example/demo/controller/TestController.java
++++ b/demo/demo/src/main/java/com/example/demo/controller/TestController.java
+@@ -1,7 +1,7 @@
+ package com.example.demo.controller;
+ 
+ import org.springframework.stereotype.Controller;
+-//New Test Controller class
++
+ @Controller
+ public class TestController {
+ 	
